@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;antities&apos; to &apos;entities&apos;&#x0A;- Original project: &apos;exercicio_matriz&apos;&#x0A;- Original element: &apos;exercicio_matriz/src/antities&apos;&#x0A;- Renamed element: &apos;exercicio_matriz/src/entities&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;antities&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;antities" name="entities" qualified="false" references="true" stamp="1701400969073" textual="false" version="1.0"/>
+</session>

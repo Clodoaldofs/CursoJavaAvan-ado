@@ -1,0 +1,12 @@
+package Util;
+
+public class CurrencyConverter {
+	
+	public static double dollar;
+	public static double reais;
+	
+	public static double converter() {
+		return (dollar*reais) + ((dollar*reais)*6/100);
+		
+	}
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="entities.Dados"/>
+    <fullyQualifiedTypeName name="entities.Vectors"/>
+    <fullyQualifiedTypeName name="entities.Calculos"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="entities.People"/>
+    <fullyQualifiedTypeName name="application.Program"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="entities.TaxPayer"/>
+</qualifiedTypeNameHistroy>

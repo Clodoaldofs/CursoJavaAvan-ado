@@ -1,0 +1,25 @@
+INDEX VERSION 1.134+/home/clodoaldo/Documentos/Java/Java/.metadata/.plugins/org.eclipse.jdt.core
+4020883123.index
+2583702951.index
+239880096.index
+3605056269.index
+646308851.index
+1601663829.index
+1865797976.index
+3157895779.index
+2772753355.index
+3553304180.index
+2274746109.index
+3983612465.index
+3063196835.index
+2843670986.index
+938978473.index
+3518439782.index
+3046155938.index
+1691791376.index
+4036161131.index
+3724714703.index
+3987134428.index
+4162289322.index
+2779772700.index
+22538117.index
